@@ -1,0 +1,92 @@
+2018-07-03T07:09:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-07-03T08:01:08+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\woocommerce\content-widget-product.php:29
+Stack trace:
+#0 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\wc-core-functions.php(210): include()
+#1 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\widgets\class-wc-widget-top-rated-products.php(88): wc_get_template('content-widget-...', Array)
+#2 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\class-wp-widget.php(372): WC_Widget_Top_Rated_Products->widget(Array, Array)
+#3 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\widgets.php(742): WP_Widget->display_callback(Array, Array)
+#4 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\footer.php(31): dynamic_sidebar('sidebar-footer')
+#5 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.php(688): require_once('D:\\Xampp\\htdocs...')
+#6 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.ph
+
+2018-07-03T08:03:24+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\woocommerce\content-widget-product.php:29
+Stack trace:
+#0 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\wc-core-functions.php(210): include()
+#1 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\widgets\class-wc-widget-top-rated-products.php(88): wc_get_template('content-widget-...', Array)
+#2 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\class-wp-widget.php(372): WC_Widget_Top_Rated_Products->widget(Array, Array)
+#3 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\widgets.php(742): WP_Widget->display_callback(Array, Array)
+#4 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\footer.php(31): dynamic_sidebar('sidebar-footer')
+#5 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.php(688): require_once('D:\\Xampp\\htdocs...')
+#6 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.ph
+
+2018-07-03T08:15:11+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\woocommerce\content-widget-product.php:29
+Stack trace:
+#0 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\wc-core-functions.php(210): include()
+#1 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\widgets\class-wc-widget-top-rated-products.php(88): wc_get_template('content-widget-...', Array)
+#2 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\class-wp-widget.php(372): WC_Widget_Top_Rated_Products->widget(Array, Array)
+#3 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\widgets.php(742): WP_Widget->display_callback(Array, Array)
+#4 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\footer.php(31): dynamic_sidebar('sidebar-footer')
+#5 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.php(688): require_once('D:\\Xampp\\htdocs...')
+#6 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.ph
+
+2018-07-03T08:15:51+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\woocommerce\content-widget-product.php:29
+Stack trace:
+#0 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\wc-core-functions.php(210): include()
+#1 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\widgets\class-wc-widget-top-rated-products.php(88): wc_get_template('content-widget-...', Array)
+#2 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\class-wp-widget.php(372): WC_Widget_Top_Rated_Products->widget(Array, Array)
+#3 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\widgets.php(742): WP_Widget->display_callback(Array, Array)
+#4 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\footer.php(31): dynamic_sidebar('sidebar-footer')
+#5 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.php(688): require_once('D:\\Xampp\\htdocs...')
+#6 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.ph
+
+2018-07-03T08:26:24+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\woocommerce\content-widget-product.php:29
+Stack trace:
+#0 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\wc-core-functions.php(210): include()
+#1 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\widgets\class-wc-widget-top-rated-products.php(88): wc_get_template('content-widget-...', Array)
+#2 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\class-wp-widget.php(372): WC_Widget_Top_Rated_Products->widget(Array, Array)
+#3 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\widgets.php(742): WP_Widget->display_callback(Array, Array)
+#4 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\footer.php(31): dynamic_sidebar('sidebar-footer')
+#5 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.php(688): require_once('D:\\Xampp\\htdocs...')
+#6 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.ph
+
+2018-07-03T09:24:50+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\woocommerce\content-widget-product.php:29
+Stack trace:
+#0 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\wc-core-functions.php(210): include()
+#1 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\widgets\class-wc-widget-top-rated-products.php(88): wc_get_template('content-widget-...', Array)
+#2 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\class-wp-widget.php(372): WC_Widget_Top_Rated_Products->widget(Array, Array)
+#3 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\widgets.php(742): WP_Widget->display_callback(Array, Array)
+#4 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\footer.php(31): dynamic_sidebar('sidebar-footer')
+#5 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.php(688): require_once('D:\\Xampp\\htdocs...')
+#6 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.ph
+
+2018-07-03T09:25:11+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\woocommerce\content-widget-product.php:29
+Stack trace:
+#0 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\wc-core-functions.php(210): include()
+#1 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\widgets\class-wc-widget-top-rated-products.php(88): wc_get_template('content-widget-...', Array)
+#2 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\class-wp-widget.php(372): WC_Widget_Top_Rated_Products->widget(Array, Array)
+#3 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\widgets.php(742): WP_Widget->display_callback(Array, Array)
+#4 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\footer.php(31): dynamic_sidebar('sidebar-footer')
+#5 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.php(688): require_once('D:\\Xampp\\htdocs...')
+#6 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.ph
+
+2018-07-03T09:25:31+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\woocommerce\content-widget-product.php:29
+Stack trace:
+#0 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\wc-core-functions.php(210): include()
+#1 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\widgets\class-wc-widget-top-rated-products.php(88): wc_get_template('content-widget-...', Array)
+#2 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\class-wp-widget.php(372): WC_Widget_Top_Rated_Products->widget(Array, Array)
+#3 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\widgets.php(742): WP_Widget->display_callback(Array, Array)
+#4 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\footer.php(31): dynamic_sidebar('sidebar-footer')
+#5 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.php(688): require_once('D:\\Xampp\\htdocs...')
+#6 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.ph
+
+2018-07-03T09:26:53+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\woocommerce\content-widget-product.php:29
+Stack trace:
+#0 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\wc-core-functions.php(210): include()
+#1 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\plugins\woocommerce\includes\widgets\class-wc-widget-top-rated-products.php(88): wc_get_template('content-widget-...', Array)
+#2 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\class-wp-widget.php(372): WC_Widget_Top_Rated_Products->widget(Array, Array)
+#3 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\widgets.php(742): WP_Widget->display_callback(Array, Array)
+#4 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-content\themes\basicstore\footer.php(31): dynamic_sidebar('sidebar-footer')
+#5 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.php(688): require_once('D:\\Xampp\\htdocs...')
+#6 D:\Xampp\htdocs\thoitrangsinhvien.com\wp-includes\template.ph
+
